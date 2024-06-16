@@ -1,0 +1,6 @@
+csv (to mainpulate csv file)
+os
+playsound (to play sound)
+time
+sys
+gtts (google text to speech library)
